@@ -1,3 +1,6 @@
+counter = 0 
+
+
 def using_times 
   puts "Wingardium Leviosa"
 end
