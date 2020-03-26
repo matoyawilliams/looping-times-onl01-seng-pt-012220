@@ -4,7 +4,6 @@ using_times = 7
 puts "Wingardium Leviosa"
 using_times = 7
 end
-end
 
 
 
